@@ -30,6 +30,7 @@
     "jest": "^24.9.0",
     "metro-react-native-babel-preset": "^0.58.0",
     "react-test-renderer": "16.11.0",
+    "wd": "^1.12.1",
     "wdio-chromedriver-service": "^6.0.2"
   },
   "jest": {

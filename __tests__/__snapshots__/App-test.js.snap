@@ -75,6 +75,7 @@ exports[`renders correctly 1`] = `
         }
       >
         <View
+          accessibilityLabel="app-root"
           style={
             Object {
               "marginTop": 32,
@@ -169,6 +170,7 @@ exports[`renders correctly 1`] = `
           }
         >
           <Text
+            accessibilityLabel="increase-count"
             style={
               Object {
                 "color": "#000",
@@ -176,6 +178,7 @@ exports[`renders correctly 1`] = `
                 "fontWeight": "600",
               }
             }
+            testID="increase-count"
           >
             Debug
           </Text>
